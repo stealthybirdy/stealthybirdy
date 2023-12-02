@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+There's nothing to view in this profile. :)
+
 <!--
 **stealthybirdy/stealthybirdy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
